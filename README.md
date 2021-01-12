@@ -1,3 +1,3 @@
 # local_manifests
 
-Local manifests for my builds
+Local manifests for my personal builds
