@@ -3,7 +3,7 @@
     <project name="Juninho10/proprietary_vendor_ti" path="vendor/ti" remote="github" revision="master" />
     <project name="Juninho10/vendor_samsung_degaswifi" path="vendor/samsung/degaswifi" remote="github" revision="master" />
     <project name="Juninho10/proprietary_vendor_samsung_omap4-common" path="vendor/samsung/omap4-common" revision="cm-14.1" />
-    <project name="Juninho10/device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" revision="master" />
+    <project name="Juninho10/device_samsung_degaswifi" path="device/samsung/degaswifi" remote="github" revision="cm-14.1" />
     <project name="Juninho10/android_kernel_samsung_degaswifi" path="kernel/samsung/degaswifi" remote="github" revision="cm-14.1" />
     <project name="Juninho10/android_kernel_ti_omap4" path="kernel/ti/omap4" remote="github" revision="cm-14.1" />
     <project name="Juninho10/android_device_samsung_omap4-common" path="device/samsung/omap4-common" remote="github" revision="cm-12.1" />
