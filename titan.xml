@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <project name="Juninho10/device_motorola_titan" path="device/motorola/titan" remote="github" revision="aicp-q10.0" />
-    <project name="Juninho10/proprietary_vendor_motorola/titan" path="vendor/motorola/titan remote="github" revision="aicp-q10.0" />
+    <project name="Juninho10/proprietary_vendor_motorola/titan" path="vendor/motorola/titan" remote="github" revision="aicp-q10.0" />
     <project name="Juninho10/android_kernel_motorola_msm8226" path="kernel/motorola/msm8226" remote="github" revision="aicp-q10.0" />
 </manifest>
