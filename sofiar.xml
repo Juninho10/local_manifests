@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project name="Juninho10/android_vendor_motorola_sofiar" path="vendor/motorola_sofiar" remote="github" revision="eleven" />
+    <project name="Juninho10/android_device_motorola_sofiar" path="device/motorola/sofiar" remote="github" revision="eleven" />
+    <project name="Juninho10/android_kernel_motorola_trinket" path="kernel/motorola/trinket" remote="github" revision="eleven" />
+</manifest>
